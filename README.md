@@ -1,6 +1,5 @@
 <div align="center">
 
-# PROJECT HJS
 ### Warehouse Management System (WMS)
 
 **Aplikasi digitalisasi operasional gudang berbasis web**
